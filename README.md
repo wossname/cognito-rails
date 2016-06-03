@@ -1,5 +1,8 @@
 # Cognito::Rails
 
+Badges: [![Build Status](https://travis-ci.org/wossname/cognito-rails.svg?branch=master)](https://travis-ci.org/wossname/cognito-rails)
+[![Gem Version](https://badge.fury.io/rb/cognito-rails.svg)](https://badge.fury.io/rb/cognito-rails)
+
 The blurb from Amazon's website on [Amazon Cognito](https://aws.amazon.com/cognito/):
 
 > Amazon Cognito lets you easily add user sign-up and sign-in to your mobile
