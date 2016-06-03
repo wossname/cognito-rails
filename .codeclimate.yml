@@ -1,0 +1,17 @@
+engines:
+  rubocop:
+    enabled: true
+  fixme:
+    enabled: true
+  brakeman:
+    enabled: true
+  duplication:
+    enabled: true
+    config:
+      languages:
+        - ruby
+ratings:
+  paths:
+    - lib/**/*.rb
+exclude_paths:
+  - spec/**/*
