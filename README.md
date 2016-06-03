@@ -2,6 +2,8 @@
 
 Badges: [![Build Status](https://travis-ci.org/wossname/cognito-rails.svg?branch=master)](https://travis-ci.org/wossname/cognito-rails)
 [![Gem Version](https://badge.fury.io/rb/cognito-rails.svg)](https://badge.fury.io/rb/cognito-rails)
+[![Code Climate](https://codeclimate.com/github/wossname/cognito-rails/badges/gpa.svg)](https://codeclimate.com/github/wossname/cognito-rails)
+[![Test Coverage](https://codeclimate.com/github/wossname/cognito-rails/badges/coverage.svg)](https://codeclimate.com/github/wossname/cognito-rails/coverage)
 
 The blurb from Amazon's website on [Amazon Cognito](https://aws.amazon.com/cognito/):
 
